@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~11.2.7",
     "@angular/platform-browser-dynamic": "~11.2.7",
     "@angular/router": "~11.2.7",
-    "fire": "^0.55.1",
+    "@angular/fire": "^6.0.4",
     "firebase": "^8.3.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
